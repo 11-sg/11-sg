@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=11-sg&show_icons=true&locale=en" alt="11-sg" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11-sg&" alt="11-sg" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
