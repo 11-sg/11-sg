@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="250" width="100%" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img align="center" alt="Coding" height="250" width="100%" src="https://gifdb.com/images/high/matrix-code-purple-hacking-glitch-7bx7559lth2twmnk.gif">
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'm+Sahil+Gupta...;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
@@ -7,9 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA**
-
-- 📫 How to reach me **sahilgupta.sg11.sg@gmail.com**
+- 📫 How to reach me **officialwork.sahil.gupta@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -27,12 +25,16 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  
   </p>
   
   <p>
@@ -45,6 +47,9 @@
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
   </a> 
+      <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+</a>
   </p>
   
 ## 📊 GitHub Stats
