@@ -9,7 +9,7 @@
 ### `whoami`
 ```javascript
 const sahil = {
-  degree:       "B.Tech CSE, VIT Bhopal — Batch 2023–2027",
+  degree:       "B.Tech CSE, VIT — Batch 2023–2027",
   focus:        ["Full-Stack Engineering", "Applied AI/ML"],
   currently:    "Building production-grade browser extensions & AI tools",
   languages:    ["JavaScript/TypeScript", "Python", "Java", "C++"],
@@ -45,7 +45,7 @@ const sahil = {
 ## 🚀 Featured Projects
 
 ### 🧩 Universal Session Manager
-Chrome/Edge Extension** — a full window & tab-session manager 
+Chrome/Edge Extension, a full window & tab-session manager 
 
 ### 🎯 InterviewSarthi
 An AI-assisted interview preparation platform designed to help students practice and improve technical interview performance.
