@@ -10,7 +10,6 @@
 ```javascript
 const sahil = {
   degree:       "B.Tech CSE, VIT Bhopal — Batch 2023–2027",
-  cgpa:         "9.01",
   focus:        ["Full-Stack Engineering", "Applied AI/ML"],
   currently:    "Building production-grade browser extensions & AI tools",
   languages:    ["JavaScript/TypeScript", "Python", "Java", "C++"],
